@@ -8,7 +8,7 @@ export default class Observable {
 	}
 
 	dettach(observer) {
-		this.observers.splice(observer.indexOf(this.observers), 1);
+		this.observers.splice(this.observers.indexOf(observer), 1);
 	}
 
 	// la méthode notify indique de mettre à jour
