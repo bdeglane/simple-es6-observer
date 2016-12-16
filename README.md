@@ -9,10 +9,10 @@ npm run build
 
 ## Principles
 
-## The observer pattern
+### The observer pattern
 
 ![class diagram observer pattern](doc/observer.png)
 
-## The project
+### The project
 
 ![class diagram observer pattern](doc/observerTimer.png)
