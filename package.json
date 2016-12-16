@@ -4,7 +4,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bdeglane/e-snake-6"
+    "url": "https://github.com/bdeglane/simple-es6-observer"
   },
   "description": "A simple observer pattern in es6.",
   "scripts": {
