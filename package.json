@@ -8,8 +8,8 @@
   },
   "description": "A simple observer pattern in es6.",
   "scripts": {
-    "watch": "webpack --progress --colors --watch",
-    "build": "webpack --progress --colors"
+    "watch": "./node_modules/.bin/webpack --progress --colors --watch",
+    "build": "./node_modules/.bin/webpack --progress --colors"
   },
   "devDependencies": {
     "babel-core": "^6.0.20",
